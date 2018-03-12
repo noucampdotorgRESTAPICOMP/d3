@@ -6,7 +6,7 @@
 
 ```
 $ cd /DRIVE/xampp/htdocs/d3
-$ git pull --no-edit https://github.com/noucampdotorgSSAD/d3.git latest
+$ git pull --no-edit https://github.com/noucampdotorgRESTAPICOMP/d3.git latest
 $ git status
 
 ```
